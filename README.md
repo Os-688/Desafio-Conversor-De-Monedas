@@ -17,6 +17,9 @@ El desafio tiene como objetivo crear una interfaz grafica con la biblioteca Swin
 * - Contiene clases para poder Invocar una Api y almacenar cualquier valor en la memoria de Eclipse.
 * - También Clases que permiten convertir a cualquier tipo de valores con relación directa (Proporción).
 
+## Video de muestra del uso del conversor:
+ [Video de muestra](https://user-images.githubusercontent.com/122639240/228416373-cc552ef7-0e35-4ef1-899f-9f20d42cf2f5.webm)
+
 # Requisitos:
 
    * - Convertir de la moneda de tu país a Dólar
