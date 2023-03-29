@@ -63,7 +63,7 @@ public class Almacenar {
 			return preferences.getDouble(clave, 0.0000);
 		}
 		
-		public String abriStringAlmacen(String clave) {
+		public String abrirStringAlmacen(String clave) {
 			return preferences.get(clave, "Fallo por completo");
 		}
 		
