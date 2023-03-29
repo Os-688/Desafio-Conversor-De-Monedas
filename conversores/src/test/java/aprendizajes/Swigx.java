@@ -46,5 +46,6 @@ public class Swigx {
 				 * 
 					double ingresaResultado = (double)ingresarValor;	
 				*/
+		//No es relevante llamar al constructor, al nombrar el método de la clase que hereda lo realiza. Esto en la utilizacion de un metodo de la clase que da herencia dentro de la clase que recibe la herencia.
 	}
 }
