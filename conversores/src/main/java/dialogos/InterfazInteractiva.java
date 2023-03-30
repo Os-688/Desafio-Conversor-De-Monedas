@@ -11,7 +11,6 @@ public class InterfazInteractiva {
 		
 		ExchangeDialogos test = new ExchangeDialogos();
 		test.ciclarVentana();
-
 		
 	}
 }

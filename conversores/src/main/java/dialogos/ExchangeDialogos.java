@@ -73,7 +73,7 @@ public class ExchangeDialogos extends CreacionDialogos{
 			for (double continua = ventanaFase6(); continua == 0 ; continua = ventanaFase6()) {
 				ventanaFase5(); 
 			}
-			JOptionPane.showMessageDialog(null, "Cancel","Programa Finalizado", -1);
+			JOptionPane.showMessageDialog(null, "Programa Finalizado","Cancelado", -1);
 		}
 	}
 }
